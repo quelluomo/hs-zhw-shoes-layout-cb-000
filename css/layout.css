@@ -39,5 +39,5 @@ h2 + .shadow {
 
 section figure img {
   width: 33%
-  display:inline;
+  display:inline-block;
 }
