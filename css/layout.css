@@ -28,7 +28,6 @@ h2 + .shadow {
 }
 
 #aside {
-  float: right;
   width: 32%;
   margin: 0 0 5px 0;
   background: pink;
