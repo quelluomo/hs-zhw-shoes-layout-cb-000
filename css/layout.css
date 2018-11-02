@@ -27,6 +27,7 @@ h2 + .shadow {
   float: left;
   width: 62%;
   padding: 0 40 10px;
+  margin:
   max-width: 100%;
   padding: 20px;
 }
@@ -34,8 +35,8 @@ h2 + .shadow {
 .archive h2 h3 *{
   float: right;
   width: 25%;
-  padding: 20px;
-  margin: 10px solid #000;
-  border: 10px solid #000;
+  padding: 40px;
+  margin: 40px;
+  border: 40px;
   max-width: 100%;
 }
