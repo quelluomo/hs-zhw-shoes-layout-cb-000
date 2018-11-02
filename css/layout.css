@@ -30,7 +30,7 @@ h2 + .shadow {
   border-right: 1px solid #000;
 }
 
-.shadow h2 {
+.archive {
   float: right;
   width: 33%;
 }
