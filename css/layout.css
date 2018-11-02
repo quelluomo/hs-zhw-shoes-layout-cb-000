@@ -23,3 +23,16 @@
 }
 
 /* Positioning Classes */
+h2 + .shadow {
+  float: left;
+  width: 64%;
+  margin: 0 5px 0 0;
+  background: pink;
+}
+
+#aside {
+  float: right;
+  width: 32%;
+  margin: 0 0 5px 0;
+  background: pink;
+}
