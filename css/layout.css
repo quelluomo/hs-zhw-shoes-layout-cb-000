@@ -28,9 +28,9 @@ h2 + .shadow {
 }
 
 #aside {
-  display: block;
   float: right;
   width: 32%;
+  clear: right;
 }
 [class*="col-"] {
   float: left;
