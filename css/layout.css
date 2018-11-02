@@ -33,4 +33,6 @@ h2 + .shadow {
 .archive {
   float: right;
   width: 32%;
+  margin-right: 1px solid #000;
+  border-right: 1px solid #000;
 }
