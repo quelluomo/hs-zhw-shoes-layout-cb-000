@@ -27,7 +27,7 @@ h2 + .shadow {
   float: left;
   width: 62%;
   padding: 0 20 0px;
-  margin: 0 10 5 0;
+  margin: 0 5px 5 0;
   background: pink;
 }
 
