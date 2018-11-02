@@ -28,7 +28,7 @@ h2 + .shadow {
   width: 66%;
 }
 
-.shadow h2 {
+.shadow + h2 {
   float: right;
   width: 33%;
 }
