@@ -29,7 +29,7 @@ h2 + .shadow {
 
 #aside {
   display: block;
-  float: left;
+  float: right;
   width: 30%;
   clear: both;
 }
