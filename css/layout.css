@@ -26,8 +26,8 @@
 
 .shadow {
   position: fixed;
-  top: 20px;
-  right: 20px;
-  width: 40px;
+  top: 66%px;
+  right: auto;
+  width: 66%px;
   z-index: 1;
 }
