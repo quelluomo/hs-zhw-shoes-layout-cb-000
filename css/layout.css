@@ -36,7 +36,7 @@ h2 + .shadow {
 [class*="col-"] {
   float: left;
   width: 32%;
-  margin: 6px;
+  margin: 2px;
 }
 [class*="col-"]:first-child {
     margin-left: 0;
