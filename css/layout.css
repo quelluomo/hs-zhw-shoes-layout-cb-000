@@ -35,4 +35,5 @@ h2 + .shadow {
 [class*="col-"] {
   float: left;
   width: 32%;
+  margin-left: 2px;
 }
