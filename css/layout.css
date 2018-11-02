@@ -38,3 +38,6 @@ h2 + .shadow {
   width: 32%;
   margin: 6px;
 }
+[class*="col-"]:first-child {
+    margin-left: 0;
+  }
