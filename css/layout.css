@@ -24,13 +24,13 @@
 
 /* Positioning Classes */
 h2 + .shadow {
-  width: 62%;
+  width: 64%;
 }
 
 #aside {
   display: block;
   float: right;
-  width: 30%;
+  width: 32%;
 }
 [class*="col-"] {
   float: left;
