@@ -35,6 +35,7 @@ h2 + .shadow {
   width: 32%;
   margin: 0 0 5px 0;
   background: pink;
+  column-gap: 20px;
 }
 
 section figure img {
