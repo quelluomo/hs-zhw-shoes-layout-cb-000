@@ -25,9 +25,7 @@
 /* Positioning Classes */
 
 .shadow {
-  position: fixed;
-  top: 66%px;
-  right: auto;
-  width: 66%px;
-  z-index: 1;
+  float: left;
+  width: 66%;
+  background: #ccc;
 }
