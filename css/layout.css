@@ -25,6 +25,7 @@
 /* Positioning Classes */
 h2 + .shadow {
   width: 65%;
+  margin-bottom: 20px;
 }
 
 #aside {
