@@ -28,7 +28,6 @@ h2 + .shadow {
   width: 64%;
   margin: 0 5px 0 0;
   background: pink;
-  border: 0 20px 0 0 solid transparent;
 }
 
 #aside {
@@ -36,5 +35,7 @@ h2 + .shadow {
   width: 32%;
   margin: 0 0 5px 0;
   background: pink;
-  border: 20px solid transparent;
+}
+.shadow {
+  border: 1px solid transparent;
 }
