@@ -36,7 +36,7 @@ h2 + .shadow {
   float: right;
   width: 25%;
   padding: 20px;
-  margin-right: 1px solid #000;
+  margin: 10px solid #000;
   border-right: 1px solid #000;
   max-width: 100%;
 }
