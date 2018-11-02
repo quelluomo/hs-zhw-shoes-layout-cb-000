@@ -28,10 +28,9 @@ h2 + .shadow {
   width: 62%;
   padding: 0 40 10px;
   margin: 0 0 50px 0;
-  padding: 20px;
 }
 
-.shadow .aside * {
+.shadow .aside {
   float: right;
   width: 25%;
   padding: 40px;
