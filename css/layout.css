@@ -24,4 +24,11 @@
 
 /* Positioning Classes */
 
+.shadow {
+  position: fixed;
+  top: 200px;
+  right: 20px;
+  width: 40px;
+  z-index: 1;
+}
 
