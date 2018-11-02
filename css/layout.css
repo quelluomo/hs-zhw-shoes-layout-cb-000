@@ -38,5 +38,6 @@ h2 + .shadow {
   background: pink;
 }
 [class*="col-"] {
-  border: 2%;
+  float: left;
+  margin: 2%;
 }
