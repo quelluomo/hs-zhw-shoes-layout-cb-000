@@ -31,6 +31,7 @@ h2 + .shadow {
 #aside {
   float: right;
   width: 32%;
+  margin-bottom: 20px;
 }
 [class*="col-"] {
   float: left;
