@@ -37,5 +37,5 @@ h2 + .shadow {
   background: pink;
 }
 .shadow {
-  border: 1px solid transparent;
+  box-shadow: 1px solid transparent;
 }
