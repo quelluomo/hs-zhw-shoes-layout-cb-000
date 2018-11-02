@@ -29,6 +29,7 @@ h2 + .shadow {
   margin-right: 1px solid #000;
   border-right: 1px solid #000;
   max-width: 100%;
+  padding: 20px;
 }
 
 .archive {
