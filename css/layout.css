@@ -27,12 +27,12 @@ h2 + .shadow {
   float: left;
   width: 62%;
   padding: 0 40 0px;
-  margin: 0 0 10px 0 color:none;
+  margin: 0 0 10px 0;
 }
 
 #aside {
   float: right;
   width: 32%;
   padding-left: : 5px;
-  margin-left: 10px color:none;
+  margin-left: 10px;
 }
