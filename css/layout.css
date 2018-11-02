@@ -23,5 +23,21 @@
 }
 
 /* Positioning Classes */
+h2 + .shadow {
+  width: 65%;
+  margin-bottom: 20px;
+}
 
-
+#aside {
+  float: right;
+  width: 32%;
+  margin-bottom: 20px;
+}
+[class*="col-"] {
+  float: left;
+  width: 32%;
+  margin: 6px;
+}
+.sale {
+  margin-bottom: 15px;
+}
